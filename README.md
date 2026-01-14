@@ -10,12 +10,6 @@ Este repositório reúne o pipeline de dados desenvolvido para processar, padron
 - **Armazenamento Otimizado:** uso de tabelas Delta Lake para consultas rápidas, versionamento (time travel) e integração fácil com BI.  
 - **Automação:** execução recorrente via Jobs do Databricks, com monitoramento, alertas e governança via Unity Catalog.  
 
-## 🛠 Arquitetura & Automação
-
-Se quiser entender como o pipeline pode ser automatizado de forma robusta e escalável para produção, confira o documento detalhado com a descrição da arquitetura, as etapas e as ferramentas envolvidas:
-
-👉 [Ver documento completo sobre Arquitetura e Automação (Google Docs)](https://docs.google.com/document/d/1KbjajWAmvOMXB2efM8aYEQxx3MTUFdU80MBCsj_mr1k/edit?usp=sharing)
-
 ## 🎨 Slides de Apresentação
 
 Aqui está o link dos **slides do projeto**, que resumem as etapas, decisões técnicas e resultados obtidos:
